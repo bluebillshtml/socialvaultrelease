@@ -25,7 +25,7 @@
 <td width="50%">
 
 ### 📥 Multi-Platform Downloads
-Download content from **15+ platforms** including:
+Download content from **30+ platforms** including:
 - YouTube, TikTok, Instagram
 - Twitter/X, Facebook, Reddit
 - Pinterest, Snapchat, Twitch
@@ -155,3 +155,4 @@ See the [Terms of Service](https://socialvault.org/terms) for usage terms.
   <br><br>
   <sub>Made with ❤️ by the Social Vault Team</sub>
 </div>
+
