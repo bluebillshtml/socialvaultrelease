@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/bluebillshtml/socialvaultapp/main/assets/logo.png" alt="Social Vault Logo" width="120" height="120">
+  
+  <img src="https://raw.githubusercontent.com/bluebillshtml/socialvaultrelease/main/logo.png" alt="Social Vault" width="120" height="120">
   
   # Social Vault
   
