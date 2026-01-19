@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://socialvault.app/assets/logo.png" alt="Social Vault Logo" width="120" height="120">
+  <img src="https://raw.githubusercontent.com/bluebillshtml/socialvaultapp/main/assets/logo.png" alt="Social Vault Logo" width="120" height="120">
   
   # Social Vault
   
@@ -108,16 +108,7 @@ No need to manually download updates - the app handles everything for you!
 
 ---
 
-## 📸 Screenshots
-
-<div align="center">
-  <img src="https://socialvault.app/assets/screenshots/dashboard.png" alt="Dashboard" width="80%">
-  <p><em>The beautiful, modern dashboard</em></p>
-</div>
-
----
-
-## 🛡️ Security
+## ️ Security
 
 This repository only contains **official releases** from the Social Vault team. All builds are:
 - ✅ Built via secured CI/CD pipeline
@@ -164,4 +155,3 @@ See the [Terms of Service](https://socialvault.app/terms) for usage terms.
   <br><br>
   <sub>Made with ❤️ by the Social Vault Team</sub>
 </div>
-****
