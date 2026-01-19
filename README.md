@@ -12,7 +12,7 @@
   
   <br>
   
-  [📥 Download Latest](https://github.com/bluebillshtml/socialvaultrelease/releases/latest) · [🌐 Visit Website](https://socialvault.app) · [📖 Documentation](https://socialvault.app/docs) · [💬 Community](https://discord.gg/socialvault)
+  [📥 Download Latest](https://github.com/bluebillshtml/socialvaultrelease/releases/latest) · [🌐 Visit Website](https://socialvault.org) · [ Community](https://discord.gg/socialvault)
   
 </div>
 
@@ -135,18 +135,17 @@ This repository only contains **official releases** from the Social Vault team. 
 
 | Resource | Link |
 |----------|------|
-| 🌐 Website | [socialvault.app](https://socialvault.app) |
-| 📖 Documentation | [socialvault.app/docs](https://socialvault.app/docs) |
+| 🌐 Website | [socialvault.org](https://socialvault.org) |
 | 💬 Discord | [Join Community](https://discord.gg/socialvault) |
 | 🐦 Twitter | [@socialvaultapp](https://twitter.com/socialvaultapp) |
-| 📧 Support | support@socialvault.app |
+| 📧 Support | support@socialvault.org |
 
 ---
 
 ## 📄 License
 
 Social Vault is proprietary software. All rights reserved.  
-See the [Terms of Service](https://socialvault.app/terms) for usage terms.
+See the [Terms of Service](https://socialvault.org/terms) for usage terms.
 
 ---
 
