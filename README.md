@@ -12,7 +12,7 @@
   
   <br>
   
-  [📥 Download Latest](https://github.com/bluebillshtml/socialvaultrelease/releases/latest) · [🌐 Visit Website](https://socialvault.org) · [ Community](https://discord.gg/socialvault)
+  [📥 Download Latest](https://github.com/bluebillshtml/socialvaultrelease/releases/latest) · [🌐 Visit Website](https://socialvault.org) · [💬 Discord](https://discord.gg/dSunkBPB)
   
 </div>
 
@@ -136,7 +136,7 @@ This repository only contains **official releases** from the Social Vault team. 
 | Resource | Link |
 |----------|------|
 | 🌐 Website | [socialvault.org](https://socialvault.org) |
-| 💬 Discord | [Join Community](https://discord.gg/socialvault) |
+| 💬 Discord | [Join Community](https://discord.gg/dSunkBPB) |
 | 🐦 Twitter | [@socialvaultapp](https://twitter.com/socialvaultapp) |
 | 📧 Support | support@socialvault.org |
 
